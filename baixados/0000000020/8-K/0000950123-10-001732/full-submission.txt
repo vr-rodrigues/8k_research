@@ -1,0 +1,1126 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WvNytes/r4/ERa939DqOPHxXSGzc51jn1JDCTFPq2bIM/Mc1EQ9zDvtepJBlAEVr
+ Cq+YdDl3gI1HG9yjxjxmbA==
+
+<SEC-DOCUMENT>0000950123-10-001732.txt : 20100111
+<SEC-HEADER>0000950123-10-001732.hdr.sgml : 20100111
+<ACCEPTANCE-DATETIME>20100111171931
+ACCESSION NUMBER:		0000950123-10-001732
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100111
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100111
+DATE AS OF CHANGE:		20100111
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		10520930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>w76894e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><DIV align="center"><DIV style="font-size: 3pt; margin-top: 16pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV></DIV></DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 8-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(d) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Date of report (Date of earliest event reported): </B><U><B>January&nbsp;11, 2010</B></U>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>K-TRON
+INTERNATIONAL, INC.</B><DIV style="width: 63%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">New Jersey
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">0-9576
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">22-1759452</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other <BR>
+Jurisdiction of <BR>
+Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File<BR>
+Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Routes 55 &#038; 553<BR>
+P.O. Box 888<BR>
+Pitman, New Jersey
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><BR><BR>08071-0888</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of Principal Executive Offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">Registrant&#146;s telephone number, including area code: (<U>856) 589-0500</U></DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">Not Applicable<BR>
+<DIV style="width: 43%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>(Former Name or Former Address, if Changed Since Last Report)
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below):
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><FONT face="Wingdings">&#254;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><FONT face="Wingdings">&#111;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;8.01. Other Events.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On January&nbsp;11, 2010, K-Tron International, Inc. and Hillenbrand, Inc. issued a joint press release
+attached hereto as Exhibit&nbsp;99.1 and incorporated into this Item&nbsp;8.01 by reference.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(d)&nbsp;Exhibits
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit Number</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="LEFT" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+<tr>
+    <TD>&nbsp;</TD>
+</tr>
+
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release dated January&nbsp;11, 2010 issued by K-Tron
+International, Inc. and Hillenbrand, Inc.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURE</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>K-TRON INTERNATIONAL, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">ROBERT E. WISNIEWSKI
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Robert E. Wisniewski&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Senior Vice President, Chief Financial
+Officer and Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Dated: January&nbsp;11, 2010
+</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><U>Exhibit&nbsp;Index</U>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Exhibit Number</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="LEFT" style="border-bottom: 1px solid #000000">Description</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+
+<tr>
+    <TD>&nbsp;</TD>
+</tr>
+
+
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release dated January&nbsp;11, 2010 issued by K-Tron
+International, Inc. and Hillenbrand, Inc.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>w76894exv99w1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit&nbsp;99.1</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><IMG src="w76894w7689401.gif" alt="(HILLENBRAND, INC. LOGO)">
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U>Hillenbrand to Acquire K-Tron International</U>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Hillenbrand expands and diversifies its business portfolio for long-term revenue and
+earnings growth.</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Batesville Casket and K-Tron will operate as separate business units.</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>The purchase price of $150 per share of K-Tron&#146;s common stock represents a 32% premium over
+K-Tron&#146;s closing price January&nbsp;8, 2010.</B></TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Hillenbrand, Inc. (NYSE: HI) and K-Tron International, Inc. (Nasdaq: KTII) have signed a definitive
+merger agreement providing for Hillenbrand&#146;s acquisition of K-Tron for $150 per share in cash. This
+price represents a 32.1&nbsp;percent premium over the closing price of K-Tron&#146;s stock on January&nbsp;8,
+2010, and a 38.6&nbsp;percent premium over the 20-day average closing stock price. The boards of
+directors of both companies have unanimously approved the merger agreement. The directors and
+officers of K-Tron holding approximately 10&nbsp;percent of K-Tron&#146;s outstanding common stock in the
+aggregate have agreed to vote their shares in favor of the transaction. The transaction will have
+an aggregate purchase price of approximately $435&nbsp;million. Adjusted for K-Tron debt and cash on
+hand at October&nbsp;3, 2009, the estimated net purchase price of the deal is approximately $390
+million. The final net purchase price will be calculated based upon the K-Tron balance sheet at the
+date of close.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Following the completion of the transaction, expected to occur at the end of March&nbsp;2010, K-Tron
+will operate as a wholly owned subsidiary of Hillenbrand. Kevin C. Bowen, who will be president of
+K-Tron&#146;s Process Group, and Donald W. Melchiorre, who will be president of K-Tron&#146;s Size Reduction
+Group, will continue to manage their respective businesses and report directly to Kenneth A. Camp,
+Hillenbrand&#146;s president and chief executive officer. Lukas Guenthardt, senior vice president of
+K-Tron corporate development, will also report to Camp. Robert E. Wisniewski, chief financial
+officer of K-Tron, will report to Cynthia L. Lucchese, Hillenbrand&#146;s chief financial officer.
+Edward B. Cloues II, K-Tron&#146;s chairman and chief executive officer, will be appointed to the
+Hillenbrand board when the merger is completed. K-Tron&#146;s headquarters will remain in Pitman, New
+Jersey.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&#147;We are delighted that K-Tron will be joining the Hillenbrand family of companies,&#148; said Camp.
+&#147;Although K-Tron&#146;s products differ from ours, we are both manufacturing companies that share
+similar processes and core operational values. Like our Batesville Casket business, the K-Tron
+operating companies are leaders in their industries and have highly effective executive management
+teams. K-Tron has a strong track record of delivering superior financial performance and creating
+significant shareholder value.&#148;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&#147;Hillenbrand and Batesville Casket represent a long tradition of manufacturing and distribution
+excellence, and K-Tron&#146;s board and management team are excited to combine our own high-performing
+people, products and services with Hillenbrand&#146;s,&#148; said Cloues. &#147;We&#146;re looking forward to taking
+advantage of Hillenbrand&#146;s lean business strengths in planning, processes and talent development to
+help create even more opportunities for growth and financial success.&#148;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Financing and Structure</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Under the terms of the definitive merger agreement, a subsidiary of Hillenbrand will merge with and
+into K-Tron, with the shareholders of K-Tron receiving $150 per share in cash for their common
+stock. The closing of the merger is subject to customary terms and conditions, including
+shareholder approval and the expiration or termination of the waiting period required under the
+Hart-Scott-Rodino Antitrust Improvements Act.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Hillenbrand expects to use cash on hand and proceeds from debt financing to fund the acquisition.
+The transaction is expected to be accretive to Hillenbrand&#146;s earnings per share in 2010, net of
+acquisition costs.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">P&#038;M Corporate Finance LLC is serving as financial advisor to Hillenbrand, and Goldman, Sachs &#038; Co.
+is serving as financial advisor to K-Tron. Skadden, Arps, Slate, Meagher &#038; Flom LLP and Baker &#038;
+Daniels LLP are serving as legal advisors to Hillenbrand, and Morgan, Lewis &#038; Bockius LLP is
+serving as legal advisor to K-Tron.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Conference Call and Webcast</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Hillenbrand will sponsor a conference call and webcast for the investing public at 11 a.m. ET
+Monday, January&nbsp;11, 2010. During the event, management will discuss the acquisition of K-Tron. The
+webcast will be available at <U>http://ir.hillenbrandinc.com</U> and will be archived on the company&#146;s Web
+site through January&nbsp;11, 2011, for those unable to listen to the live webcast.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Participants may listen to the conference call by dialing 1-877-741-4240 (1-719-325-4790 for
+international callers). A replay of the call will be available through midnight Tuesday, January
+26, 2010, at 1-888-203-1112 (1-719-457-0820 for international callers). Please use the confirmation
+code 4622656.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Disclosure Regarding Forward-Looking Statements</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Throughout this release, we make a number of forward-looking statements within the meaning of the
+Private Securities Litigation Reform Act of 1995, including the anticipated effect of the
+acquisition on Hillenbrand&#146;s future results and the expected timing of the closing of the
+transaction. As the words imply, forward-looking statements are statements about the future, as
+contrasted with historical information. Our forward-looking statements are based on assumptions and
+current expectations of future events that we believe are reasonable, but by their very nature they
+are subject to a wide range of risks. If our assumptions prove inaccurate or unknown risks and
+uncertainties materialize, actual results could vary materially from Hillenbrand&#146; and K-Tron&#146;s
+expectations and projections.
+Words that could indicate we&#146;re making forward-looking statements include the following:
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">intend
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">believe
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">plan
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">expect
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">may
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">goal</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">become
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">pursue
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">estimate
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">will
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">forecast
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">continue</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">targeted
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">encourage
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">promise
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">improve
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">progress
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">potential</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This isn&#146;t an exhaustive list, but is simply intended to give you an idea of how we try to
+identify forward-looking statements. The absence of any of these words, however, does not mean that
+the statement is not forward-looking.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Here&#146;s the key point</B>: <I>Forward-looking statements are not guarantees of future performance, and our
+actual results could differ materially from those set forth in any forward-looking statements</I>. Any
+number of factors &#151; many of which are beyond our control &#151; could cause actual results to differ
+materially from those described in the forward-looking statements. These factors include, but are
+not limited to: the occurrence of any event, change or other circumstance that could result in the
+termination of the merger agreement; the outcome of any legal proceedings that may be instituted
+against Hillenbrand, K-Tron and others following announcement of the merger; the inability to
+satisfy the conditions to complete the merger (or to complete the merger on a timely basis),
+including obtaining the required approval of K-Tron&#146;s shareholders, consummating Hillenbrand&#146;s
+financing, the expiration of the waiting period under the Hart-Scott-Rodino Antitrust Improvements
+Act of 1976, as amended, and the receipt of any other regulatory approvals, if required; risks that
+the proposed transaction disrupts current operations or poses potential difficulties in employee
+retention or otherwise affects financial or operating results as a result of the merger; the
+ability to recognize the benefits of the merger, including potential synergies and cost savings or
+the failure of the combined company to achieve its plans and objectives generally; the increased
+leverage as a result of the transaction; legislative, regulatory and economic developments; and
+other factors described in filings by both companies with the SEC. Additional factors that could
+cause actual results to differ materially from those described in the forward-looking statements
+include those detailed from time to time in Hillenbrand&#146;s and K-Tron&#146;s publicly filed documents,
+including their most recently filed annual reports on Form&nbsp;10-K. <B>Hillenbrand and K-Tron can give no
+assurance that any of the transactions related to the merger will be completed or that the
+conditions to the merger will be satisfied. </B>Neither Hillenbrand nor K-Tron undertakes to update or
+revise (and neither assumes any obligation to update or revise) any forward-looking statements as a
+result of new information or future events or developments.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Additional Information About the Merger</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This communication may be deemed to be a solicitation of proxies in respect of the proposed
+acquisition of K-Tron by Hillenbrand. In connection with the proposed acquisition, K-Tron will file
+a proxy statement with the SEC and intends to file other relevant materials with the SEC as well.
+<B>Investors and security holders of K-Tron are urged to read</B>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>the proxy statement and other relevant
+materials filed with the SEC when they become available because they will contain important
+information about the proposed acquisition and related matters. </B>The final proxy statement will be
+mailed to K-Tron shareholders. Investors and shareholders may obtain a free copy of the proxy
+statement when it becomes available, and other documents filed by K-Tron with the SEC, at the SEC&#146;s
+Web site, www.sec.gov. These documents (when they are available) can also be obtained by investors
+and shareholders free of charge from K-Tron upon written request to K-Tron International, Inc.;
+Attention: Investor Relations; Routes 55 and 553; P.O. Box 888; Pitman, New Jersey 08071, or by
+calling 856-589-0500.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">This communication is not a solicitation of a proxy from any security holder of K-Tron; however,
+Hillenbrand, K Tron and certain of their respective directors and executive officers, under SEC
+rules, may be deemed to be participants in the solicitation of proxies from shareholders of K-Tron
+in connection with the proposed merger. Information about Hillenbrand&#146;s directors and executive
+officers may be found in its 2009 Annual Report on Form 10-K filed with the SEC on November&nbsp;24,
+2009, and definitive proxy statement relating to its 2010 Annual Meeting of Shareholders filed with
+the SEC on January&nbsp;5, 2010. Information about K-Tron&#146;s directors and executive offers may be found
+in its 2008 Annual Report on Form 10-K filed with the SEC on March&nbsp;13, 2009, and definitive proxy
+statement relating to its 2009 Annual Meeting of Shareholders filed with the SEC on April&nbsp;6, 2009.
+Additional information regarding the interests of such potential participants in the solicitation
+of proxies in connection with the merger will be included in the proxy statement and the other
+relevant materials filed with the SEC when they become available.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>About Hillenbrand, Inc.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Hillenbrand, Inc. (<U>www.HillenbrandInc.com</U>) is the holding company for Batesville Casket Company, a
+leader in the North American death care industry through the sale of funeral services products,
+including burial caskets, cremation caskets, containers and urns, selection room display fixturing,
+and other personalization and memorialization products.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>About K-Tron International, Inc.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">K-Tron (<U>www.ktroninternational.com</U>) is a recognized leader in the design, production, marketing and
+servicing of material handling equipment and systems. The company serves many different industrial
+markets through two separate business lines. The Process Group focuses primarily on feeding and
+pneumatic conveying equipment, doing business under two main brands: K-Tron Feeders and K-Tron
+Premier. The Size Reduction Group concentrates on size reduction equipment, conveying systems and
+screening equipment, operating under three brands: Pennsylvania Crusher, Gundlach and Jeffrey
+Rader.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">HI-INC-F
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>CONTACTS<BR>
+Investor Relations for Hillenbrand, Inc.</B><BR>
+Mark R. Lanning, Vice President of Investor Relations and Treasurer<BR>
+Phone: 812-934-7256<BR>
+E-mail: <U>mrlanning@hillenbrand.com</U>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Investor Relations for K-Tron International, Inc.</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 0pt">Robert E. Wisniewski, Senior Vice President, Chief Financial Officer and Treasurer<BR>
+Phone: 856-589-0500<BR>
+E-mail: <U>rwisniewski@ktron.com</U>
+
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">###
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>w76894w7689401.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 w76894w7689401.gif
+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
+%9T```#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
